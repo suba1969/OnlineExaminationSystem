@@ -1,7 +1,11 @@
 # OnlineExaminationSystem
 
-All the pages are Responsive. 
+The Website is a Responsive website. 
+
+
 Project Environment:- java, HTML, JavaScript, CSS, Bootstrap,MySQL. 
+
+
 Tools Used:- Eclipse IDE, Tomcat 7, MySQL Workbench 8.0 CE.
 
 Start the Project with the index.jsp page. It is the Home Page of the Portal.
