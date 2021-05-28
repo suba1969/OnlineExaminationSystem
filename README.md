@@ -1,6 +1,6 @@
 # OnlineExaminationSystem
 
-All the pages are Responsive. I have used java, JavaScript, CSS, Bootstrap,MySQL database. IDE used is Eclipse IDE.
+All the pages are Responsive. I have used java, HTML, JavaScript, CSS, Bootstrap,MySQL database. IDE used is Eclipse IDE.
 
 Start the Project with the index.jsp page. It is the Home Page of the Portal.
 In the Home page Registaion and Login pages for the User and The Admin are available.
